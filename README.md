@@ -5,3 +5,4 @@
 ## DiagonalStar
 ## LongestCommonPrefix
 ## RandomArrayExample
+## Minimum Element in Array
