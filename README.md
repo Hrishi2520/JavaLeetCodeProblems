@@ -1,9 +1,7 @@
 # JavaProblems
 
-## Palindrome Number
-## Jolly Jumpper Example
+## Arrays Examples
 ## DiagonalStar
-## LongestCommonPrefix
-## RandomArrayExample
-## Minimum Element in Array
-## Reverse array
+## Jolly Jumper Example
+## Leetcode
+## Sorting Problems.
