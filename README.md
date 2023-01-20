@@ -13,6 +13,7 @@
 * [Pallindrome Number](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/PalindromeNumber)
 * [Reverse Integer](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/Reverse%20Integer)
 * [Longest Common Prefix](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/longestCommonPrefix)
+* [Valid Parentheses](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/ValidParentheses)
 
 ### [Sorting Problems](https://github.com/Hrishi2520/JavaProblems/tree/main/Sorting)
 * [Bubble Sort](https://github.com/Hrishi2520/JavaProblems/tree/main/Sorting/BubbleSort/src)
