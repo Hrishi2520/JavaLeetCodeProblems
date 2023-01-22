@@ -14,7 +14,7 @@
 * [Reverse Integer](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/Reverse%20Integer)
 * [Longest Common Prefix](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/longestCommonPrefix)
 * [Valid Parentheses](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/ValidParentheses)
-* [Merge Two Sorted Lists](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/MergeTwoSortedLists)
+* [Merge Two Sorted Lists](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/Merge%20Two%20Sorted%20Lists)
 
 ### [Sorting Problems](https://github.com/Hrishi2520/JavaProblems/tree/main/Sorting)
 * [Bubble Sort](https://github.com/Hrishi2520/JavaProblems/tree/main/Sorting/BubbleSort/src)
