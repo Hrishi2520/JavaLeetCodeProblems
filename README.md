@@ -1,11 +1,11 @@
 # JavaProblems
 
 ### [Arrays Examples](https://github.com/Hrishi2520/JavaProblems/tree/main/Array%20Examples/src)
-* [Min Element](https://github.com/Hrishi2520/JavaProblems/tree/main/Array%20Examples/src/minElement)
-* [Random Array](https://github.com/Hrishi2520/JavaProblems/tree/main/Array%20Examples/src/randomArray)
-* [Reverse Array](https://github.com/Hrishi2520/JavaProblems/tree/main/Array%20Examples/src/reverseArray)
-* [Reverse Sorting](https://github.com/Hrishi2520/JavaProblems/tree/main/Array%20Examples/src/reverseSorting)
-* [2D Array](https://github.com/Hrishi2520/JavaProblems/tree/main/Array%20Examples/src/twoDArray)
+* [Min Element](https://github.com/Hrishi2520/JavaProblems/tree/main/ArrayExamples/src/minElement)
+* [Random Array](https://github.com/Hrishi2520/JavaProblems/tree/main/ArrayExamples/src/randomArray)
+* [Reverse Array](https://github.com/Hrishi2520/JavaProblems/tree/main/ArrayExamples/src/reverseArray)
+* [Reverse Sorting](https://github.com/Hrishi2520/JavaProblems/tree/main/ArrayExamples/src/reverseSorting)
+* [2D Array](https://github.com/Hrishi2520/JavaProblems/tree/main/ArrayExamples/src/twoDArray)
 
 ### [Leetcode](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src)
 * [Diagonal Star](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/Diagonal%20Star)
@@ -16,6 +16,7 @@
 * [Valid Parentheses](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/ValidParentheses)
 * [Merge Two Sorted Lists](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/Merge%20Two%20Sorted%20Lists)
 * [RomanToInt](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/RomanToInt)
+* [Tribonacci](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/Tribonacci)
 
 
 ### [Sorting Problems](https://github.com/Hrishi2520/JavaProblems/tree/main/Sorting)
