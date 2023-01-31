@@ -17,6 +17,7 @@
 * [Merge Two Sorted Lists](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/Merge%20Two%20Sorted%20Lists)
 * [RomanToInt](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/RomanToInt)
 * [Tribonacci](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/Tribonacci)
+* [Remove Duplicates from Sorted Array](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/Remove%20Duplicates%20from%20Sorted%20Array)
 
 
 ### [Sorting Problems](https://github.com/Hrishi2520/JavaProblems/tree/main/Sorting)
