@@ -20,5 +20,5 @@
 * [Remove Duplicates from Sorted Array](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/Remove%20Duplicates%20from%20Sorted%20Array)
 
 
-### [Sorting Problems](https://github.com/Hrishi2520/JavaProblems/tree/main/Sorting)
+### [Sorting Problems](https://github.com/Hrishi2520/JavaProblems/tree/main/Sorting/BubbleSort/src)
 * [Bubble Sort](https://github.com/Hrishi2520/JavaProblems/tree/main/Sorting/BubbleSort/src)
