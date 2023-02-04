@@ -18,6 +18,7 @@
 * [RomanToInt](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/RomanToInt)
 * [Tribonacci](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/Tribonacci)
 * [InsertionPosition](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/InsertionPosition)
+* [RemoveDuplecatesFromSortedArray)](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/RemoveDuplecatesFromSortedArray)
 
 
 ### [Sorting Problems](https://github.com/Hrishi2520/JavaProblems/tree/main/Sorting/src/BubbleSort)
