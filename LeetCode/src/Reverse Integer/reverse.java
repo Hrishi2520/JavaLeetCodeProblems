@@ -1,5 +1,5 @@
 class Solution {
-    public int reverse(int x) {
+    public static int reverse(int x) {
         int reverse = 0;
         while(x != 0) {
             if(reverse > Integer.MAX_VALUE/10 || reverse < Integer.MIN_VALUE/10)
@@ -9,7 +9,7 @@ class Solution {
         }
         return reverse;
     }
-    public staic void main(String[] args) {
+    public static void main(String[] args) {
         System.out.println(reverse(123));
     }
 }
