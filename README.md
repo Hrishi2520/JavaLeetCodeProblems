@@ -23,7 +23,7 @@
 * [PlusOne](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/PlusOne)
 * [AddBinary](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/AddBinary)
 * [FindSqrt](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/FindSqrt)
-* [ClimbingStairs](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/ClimbingStairs)
+* [ClimbingStairs](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/Climbing%20Stairs)
 
 ### [Sorting Problems](https://github.com/Hrishi2520/JavaProblems/tree/main/Sorting/src/BubbleSort)
 * [Bubble Sort](https://github.com/Hrishi2520/JavaProblems/tree/main/Sorting/BubbleSort/src)
