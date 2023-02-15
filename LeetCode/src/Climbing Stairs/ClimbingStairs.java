@@ -11,11 +11,11 @@ public class ClimbingStairs {
         for(int i = 2; i < array.length; i++) {
             array[i] = array[i - 1] +array[i - 2];
         }
-        return array[array.length - 1];
+        return array[array.length - 1];	
     }
 
     public static void main(String[] args) {
-    	int climbingStairsWays = climbingStairs(10);
-    	System.out.println(climbingStairsWays)
+    	int climbingStairsWays = climbStairs(10);
+    	System.out.println(climbingStairsWays);
     }
 }
