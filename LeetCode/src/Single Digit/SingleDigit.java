@@ -1,5 +1,5 @@
 public class SingleDigit {
-    public staic int singleNumber(int[] nums) {
+    public static int singleNumber(int[] nums) {
         int xor = 0;
         for(int num : nums) {
             xor ^= num;
@@ -7,7 +7,7 @@ public class SingleDigit {
         return xor;
     }
 
-    public staic void main(String[] args) {
+    public static void main(String[] args) {
     	int[] arr = {2,4,3,2,4};
 
     	int result = singleNumber(arr);
