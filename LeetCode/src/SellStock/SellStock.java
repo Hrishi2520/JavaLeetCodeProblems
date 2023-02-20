@@ -1,19 +1,19 @@
 public class SellStock {
     public static int maxProfit(int[] prices) {
-        int lsf = Integer.MAX_VALUE;
-        int op = 0;
+        int min = Integer.MAX_VALUE;
+        int profit = 0;
         int pist = 0;
         
         for(int i = 0; i < prices.length; i++){
-            if(prices[i] < lsf){
-                lsf = prices[i];
+            if(prices[i] < min){
+                min = prices[i];
             }
-            pist = prices[i] - lsf;
-            if(op < pist){
-                op = pist;
+            pist = prices[i] - min;
+            if(profit < pist){
+                profit = pist;
             }
         }
-        return op;
+        return profit;
     }
     public static void main(String[] args) {
         int[] prices = [7,1,5,3,6,4];
