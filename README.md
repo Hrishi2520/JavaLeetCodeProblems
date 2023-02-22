@@ -29,7 +29,7 @@
 * [Valid Palindrome](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/Valid%20Palindrome)
 * [Single Digit](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/Single%20Digit)
 * [SellStock](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/SellStock)
-
+* [Median](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/Median)
 
 ### [Sorting Problems](https://github.com/Hrishi2520/JavaProblems/tree/main/Sorting/src/BubbleSort)
 * [Bubble Sort](https://github.com/Hrishi2520/JavaProblems/tree/main/Sorting/BubbleSort/src)
