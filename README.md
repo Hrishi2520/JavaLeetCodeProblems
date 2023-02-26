@@ -30,6 +30,7 @@
 * [Single Digit](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/Single%20Digit)
 * [SellStock](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/SellStock)
 * [Median](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/Median)
+* [ExcelSheetColumnTitle](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/ExcelSheetColumnTitle)
 
 ### [Sorting Problems](https://github.com/Hrishi2520/JavaProblems/tree/main/Sorting/src/BubbleSort)
 * [Bubble Sort](https://github.com/Hrishi2520/JavaProblems/tree/main/Sorting/BubbleSort/src)
