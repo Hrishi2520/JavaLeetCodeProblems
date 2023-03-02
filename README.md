@@ -33,6 +33,7 @@
 * [ExcelSheetColumnTitle](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/ExcelSheetColumnTitle)
 * [ExcelSheetColumnNumber](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/ExcelSheetColumnNumber)
 * [ValidAnagram](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/ValidAnagram)
+* [StringCompression](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/StringCompression)
 
 ### [Sorting Problems](https://github.com/Hrishi2520/JavaProblems/tree/main/Sorting/src/BubbleSort)
 * [Bubble Sort](https://github.com/Hrishi2520/JavaProblems/tree/main/Sorting/BubbleSort/src)
