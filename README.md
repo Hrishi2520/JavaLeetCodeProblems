@@ -36,6 +36,7 @@
 * [StringCompression](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/StringCompression)
 * [IsomorphicStrings](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/IsomorphicStrings)
 * [Word Pattern](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/Word%20Pattern)
+* [ReverseString](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/ReverseString)
 
 ### [Sorting Problems](https://github.com/Hrishi2520/JavaProblems/tree/main/Sorting/src/BubbleSort)
 * [Bubble Sort](https://github.com/Hrishi2520/JavaProblems/tree/main/Sorting/BubbleSort/src)
