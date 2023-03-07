@@ -31,7 +31,7 @@ public class ReverseVowels2 {
     			i++;
     		} else {
     			i++;
-    			j++;
+    			j--;
     		}
     	}
     	return str.toString();
