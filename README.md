@@ -39,6 +39,7 @@
 * [ReverseString](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/ReverseString)
 * [ReverseVowels](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/ReverseVowels)
 * [BinaryTreePaths](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/BinaryTreePaths)
+* [SortedArrayToBST](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/SortedArrayToBST)
 
 ### [Sorting Problems](https://github.com/Hrishi2520/JavaProblems/tree/main/Sorting/src/BubbleSort)
 * [Bubble Sort](https://github.com/Hrishi2520/JavaProblems/tree/main/Sorting/BubbleSort/src)
