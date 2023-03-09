@@ -40,6 +40,7 @@
 * [ReverseVowels](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/ReverseVowels)
 * [BinaryTreePaths](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/BinaryTreePaths)
 * [SortedArrayToBST](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/SortedArrayToBST)
+* [FirstUniqChar](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/FirstUniqChar)
 
 ### [Sorting Problems](https://github.com/Hrishi2520/JavaProblems/tree/main/Sorting/src/BubbleSort)
 * [Bubble Sort](https://github.com/Hrishi2520/JavaProblems/tree/main/Sorting/BubbleSort/src)
