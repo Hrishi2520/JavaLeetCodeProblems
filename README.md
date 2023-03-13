@@ -45,6 +45,7 @@
 * [FirstOccurrenceInString](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/FirstOccurrenceInString)
 * [MergeKSortedLists](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/MergeKSortedLists)
 * [RansomNote](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/RansomNote)
+* [LetterCombinations](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/LetterCombinations)
 
 ### [Sorting Problems](https://github.com/Hrishi2520/JavaProblems/tree/main/Sorting/src/BubbleSort)
 * [Bubble Sort](https://github.com/Hrishi2520/JavaProblems/tree/main/Sorting/BubbleSort/src)
