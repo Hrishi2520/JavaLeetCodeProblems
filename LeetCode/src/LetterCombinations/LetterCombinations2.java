@@ -1,5 +1,4 @@
 public class LetterCombinations2 {
-    class Solution {
     public List<String> letterCombinations(String digits) {
         List<String> list = new ArrayList<>();
         if(digits.length() == 0) return list;
