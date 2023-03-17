@@ -48,6 +48,7 @@
 * [LetterCombinations](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/LetterCombinations)
 * [AddTwoNumbers](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/AddTwoNumbers)
 * [LengthOfLongestSubstring](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/LengthOfLongestSubstring)
+* [LongestPalindrome](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/LongestPalindrome)
 
 ### [Sorting Problems](https://github.com/Hrishi2520/JavaProblems/tree/main/Sorting/src/BubbleSort)
 * [Bubble Sort](https://github.com/Hrishi2520/JavaProblems/tree/main/Sorting/BubbleSort/src)
