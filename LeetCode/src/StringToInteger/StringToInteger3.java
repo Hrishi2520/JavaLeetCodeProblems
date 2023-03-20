@@ -33,4 +33,8 @@ public class StringToInteger3 {
         }
         return result * sign;
     }
+        public static void main(String[] args) {
+        String s = "4193";
+        System.out.println(myAtoi(s));
+    }
 }
