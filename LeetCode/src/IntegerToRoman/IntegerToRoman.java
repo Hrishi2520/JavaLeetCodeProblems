@@ -35,4 +35,9 @@ public class IntegerToRoman {
         while(num --> 0) ret += repeatVal;
         return ret;
     }
+
+    public static void main(String[] args) {
+    	int num = 3;
+    	System.out.println(intToRoman(num));
+    }
 }
