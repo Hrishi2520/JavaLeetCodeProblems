@@ -1,12 +1,16 @@
 public class FindTheDifference2 {
     public static char findTheDifference(String s, String t) {
-        int[] a = new int[26];
-        for(char c : s.toCharArray()) a[c - 'a']--;
-        for(char c : t.toCharArray()) a[c - 'a']++;
-        int i = 0;
-        for(; i < 26; i++)
-            if(a[i] == 1) break;
-        return (char) (i +'a');  
+        Map<Character, Integer>  map = new Hashmap<>();\
+
+        for(char c : s.toCharArray()) {
+            map.put(c, map.getOrDefault(c,0)+1);
+        }
+
+        for(char c : t.toCharArray()) {
+            if(map.containsKey(c) && map.get(c) == 0 || !map.containsKey(c)) return c;
+            else map.put(c, map.get(c) -1);
+        }
+        return '!';
     }
     public static void main(String[] args) {
     	String s = "", t = "y";
