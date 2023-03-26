@@ -56,6 +56,7 @@
 * [IntegerToRoman](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/IntegerToRoman)
 * [MinScore](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/MinScore)
 * [Container With Most Water](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/ContainerWithMostWater)
+* [FindTheDifference](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/FindTheDifference)
 
 ### [Sorting Problems](https://github.com/Hrishi2520/JavaProblems/tree/main/Sorting/src/BubbleSort)
 * [Bubble Sort](https://github.com/Hrishi2520/JavaProblems/tree/main/Sorting/BubbleSort/src)
