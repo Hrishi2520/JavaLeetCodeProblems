@@ -58,6 +58,7 @@
 * [Container With Most Water](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/ContainerWithMostWater)
 * [FindTheDifference](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/FindTheDifference)
 * [Subsequence](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/Subsequence)
+* [Minimum Index Sum of Two Lists](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/Minimum%20Index%20Sum%20of%20Two%20Lists)
 
 ### [Sorting Problems](https://github.com/Hrishi2520/JavaProblems/tree/main/Sorting/src/BubbleSort)
 * [Bubble Sort](https://github.com/Hrishi2520/JavaProblems/tree/main/Sorting/BubbleSort/src)
