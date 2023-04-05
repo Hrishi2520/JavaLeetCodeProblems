@@ -62,6 +62,7 @@
 * [CountSegments](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/CountSegments)
 * [ToLowerCase](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/To%20Lower%20Case)
 * [FizzBuzz](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/FizzBuzz)
+* [ReverseStr](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/ReverseStr)
 
 ### [Sorting Problems](https://github.com/Hrishi2520/JavaProblems/tree/main/Sorting/src/BubbleSort)
 * [Bubble Sort](https://github.com/Hrishi2520/JavaProblems/tree/main/Sorting/BubbleSort/src)
