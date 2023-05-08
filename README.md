@@ -72,6 +72,7 @@
 * [Robot Return to Origin](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/Robot%20Return%20to%20Origin)
 * [License Key Formatting](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/License%20Key%20Formatting)
 * [Student Attendance Record I](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/Student%20Attendance%20Record%20I)
+* [Matrix Diagonal Sum](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/Matrix%20Diagonal%20Sum)
 
 ### [Sorting Problems](https://github.com/Hrishi2520/JavaProblems/tree/main/Sorting/src/BubbleSort)
 * [Bubble Sort](https://github.com/Hrishi2520/JavaProblems/tree/main/Sorting/BubbleSort/src)
