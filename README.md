@@ -75,6 +75,7 @@
 * [Matrix Diagonal Sum](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/Matrix%20Diagonal%20Sum)
 * [Jewels and Stones](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/Jewels%20and%20Stones)
 * [UniqueMorseRepresentations](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/Unique%20Morse%20Code%20Words)
+* [Contains Duplicate](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/Contains%20Duplicate)
 
 ### [Sorting Problems](https://github.com/Hrishi2520/JavaProblems/tree/main/Sorting/src/BubbleSort)
 * [Bubble Sort](https://github.com/Hrishi2520/JavaProblems/tree/main/Sorting/BubbleSort/src)
