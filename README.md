@@ -77,6 +77,7 @@
 * [UniqueMorseRepresentations](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/Unique%20Morse%20Code%20Words)
 * [Contains Duplicate](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/Contains%20Duplicate)
 * [Missing Number](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/Missing%20Number)
+* [Shortest Completing Word](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/Shortest%20Completing%20Word)
 
 ### [Sorting Problems](https://github.com/Hrishi2520/JavaProblems/tree/main/Sorting/src/BubbleSort)
 * [Bubble Sort](https://github.com/Hrishi2520/JavaProblems/tree/main/Sorting/BubbleSort/src)
