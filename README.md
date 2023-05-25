@@ -80,6 +80,7 @@
 * [Shortest Completing Word](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/Shortest%20Completing%20Word)
 * [Majority Element](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/Majority%20Element)
 * [Happy Number](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/Happy%20Number)
+* [LinkedListCycle](https://github.com/Hrishi2520/JavaProblems/tree/main/LeetCode/src/Linked%20List%20Cycle)
 
 ### [Sorting Problems](https://github.com/Hrishi2520/JavaProblems/tree/main/Sorting/src/BubbleSort)
 * [Bubble Sort](https://github.com/Hrishi2520/JavaProblems/tree/main/Sorting/BubbleSort/src)
